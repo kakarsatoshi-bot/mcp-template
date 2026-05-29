@@ -29,6 +29,16 @@ This is a minimal MCP server template that runs on Cloudflare Workers + TypeScri
 
 → [mcp-template-with-db](https://github.com/kakarsatoshi-bot/mcp-template-with-db) を使ってください。
 
+## 詳細ガイド / Complete Guide
+
+セットアップの詳細手順・詰まりポイント集・Smithery登録手順をまとめた完全ガイドを販売中です。
+
+🛒 **[完全ガイドを購入する（$29）](https://tsukuras.gumroad.com/l/mcp-template)**
+
+Purchase the complete setup guide with detailed instructions, troubleshooting tips, and Smithery registration steps.
+
+---
+
 ## クイックスタート / Quick Start
 
 ### 1. テンプレートを使用 / Use this template
